@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. FillsAndPrintMatrix", "01. FillsAndPrintMatrix\01. FillsAndPrintMatrix.csproj", "{DF33CA48-A415-4F08-926B-D6E5E116D738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MaxSumOf3x3Elements", "02. MaxSumOf3x3Elements\02. MaxSumOf3x3Elements.csproj", "{A7E4ED08-7F1D-4662-9BA0-7D2104CCCEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. LongestSequenceOfEqualStrings", "03. LongestSequenceOfEqualStrings\03. LongestSequenceOfEqualStrings.csproj", "{7DF46D34-93D3-4E93-95BE-663B3372BF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. LargestOrEqualToKNumber", "04. LargestOrEqualToKNumber\04. LargestOrEqualToKNumber.csproj", "{5B312C6B-B5A0-4963-A6FF-D37EA62E35E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SortByLengthOfCharacters", "05. SortByLengthOfCharacters\05. SortByLengthOfCharacters.csproj", "{772FA353-DD29-4B6E-B9F5-E2F0B857F2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. LengthOfEqualNeighbors", "07. LengthOfEqualNeighbors\07. LengthOfEqualNeighbors.csproj", "{F7BC941B-180D-4173-BE5B-73567BA56C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. MatrixOperations", "06. MatrixOperations\06. MatrixOperations.csproj", "{3CFDFD76-3ED8-40D7-9432-A85839C3FCD3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ntumbalev.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 01.\u0020FillsAndPrintMatrix\\01.\u0020FillsAndPrintMatrix.csproj
+		SccProjectName1 = 01.\u0020FillsAndPrintMatrix
+		SccLocalPath1 = 01.\u0020FillsAndPrintMatrix
+		SccProjectUniqueName2 = 02.\u0020MaxSumOf3x3Elements\\02.\u0020MaxSumOf3x3Elements.csproj
+		SccProjectName2 = 02.\u0020MaxSumOf3x3Elements
+		SccLocalPath2 = 02.\u0020MaxSumOf3x3Elements
+		SccProjectUniqueName3 = 03.\u0020LongestSequenceOfEqualStrings\\03.\u0020LongestSequenceOfEqualStrings.csproj
+		SccProjectName3 = 03.\u0020LongestSequenceOfEqualStrings
+		SccLocalPath3 = 03.\u0020LongestSequenceOfEqualStrings
+		SccProjectUniqueName4 = 04.\u0020LargestOrEqualToKNumber\\04.\u0020LargestOrEqualToKNumber.csproj
+		SccProjectName4 = 04.\u0020LargestOrEqualToKNumber
+		SccLocalPath4 = 04.\u0020LargestOrEqualToKNumber
+		SccProjectUniqueName5 = 05.\u0020SortByLengthOfCharacters\\05.\u0020SortByLengthOfCharacters.csproj
+		SccProjectName5 = 05.\u0020SortByLengthOfCharacters
+		SccLocalPath5 = 05.\u0020SortByLengthOfCharacters
+		SccProjectUniqueName6 = 06.\u0020MatrixOperations\\06.\u0020MatrixOperations.csproj
+		SccProjectName6 = 06.\u0020MatrixOperations
+		SccLocalPath6 = 06.\u0020MatrixOperations
+		SccProjectUniqueName7 = 07.\u0020LengthOfEqualNeighbors\\07.\u0020LengthOfEqualNeighbors.csproj
+		SccProjectName7 = 07.\u0020LengthOfEqualNeighbors
+		SccLocalPath7 = 07.\u0020LengthOfEqualNeighbors
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF33CA48-A415-4F08-926B-D6E5E116D738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF33CA48-A415-4F08-926B-D6E5E116D738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF33CA48-A415-4F08-926B-D6E5E116D738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF33CA48-A415-4F08-926B-D6E5E116D738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E4ED08-7F1D-4662-9BA0-7D2104CCCEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E4ED08-7F1D-4662-9BA0-7D2104CCCEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E4ED08-7F1D-4662-9BA0-7D2104CCCEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E4ED08-7F1D-4662-9BA0-7D2104CCCEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF46D34-93D3-4E93-95BE-663B3372BF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF46D34-93D3-4E93-95BE-663B3372BF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF46D34-93D3-4E93-95BE-663B3372BF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF46D34-93D3-4E93-95BE-663B3372BF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B312C6B-B5A0-4963-A6FF-D37EA62E35E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B312C6B-B5A0-4963-A6FF-D37EA62E35E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B312C6B-B5A0-4963-A6FF-D37EA62E35E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B312C6B-B5A0-4963-A6FF-D37EA62E35E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772FA353-DD29-4B6E-B9F5-E2F0B857F2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772FA353-DD29-4B6E-B9F5-E2F0B857F2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772FA353-DD29-4B6E-B9F5-E2F0B857F2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772FA353-DD29-4B6E-B9F5-E2F0B857F2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7BC941B-180D-4173-BE5B-73567BA56C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BC941B-180D-4173-BE5B-73567BA56C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BC941B-180D-4173-BE5B-73567BA56C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BC941B-180D-4173-BE5B-73567BA56C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFDFD76-3ED8-40D7-9432-A85839C3FCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFDFD76-3ED8-40D7-9432-A85839C3FCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFDFD76-3ED8-40D7-9432-A85839C3FCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFDFD76-3ED8-40D7-9432-A85839C3FCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
